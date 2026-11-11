@@ -10,7 +10,7 @@ One command puts the skill where your agent reads it (Claude Code, Codex, Cursor
 npx skills add tobyshi/roma-skills
 ```
 
-An agent that cannot run that reads the same skill as one page at https://roma.app/skill.md and keeps it where it keeps its skills.
+An agent that cannot run that reads the same skill as one page at https://roma.app/skill.md and keeps it where it keeps its skills; the full skill is one page too, https://roma.app/skill-full.md.
 
 Then connect your agent to Roma's MCP server at `https://api.roma.app/mcp` (the steps per agent: https://roma.app/agents, and the brief an agent reads itself: https://roma.app/agents.md) and add to your agent's instructions file:
 
